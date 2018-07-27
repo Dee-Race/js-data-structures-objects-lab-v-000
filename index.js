@@ -3,5 +3,5 @@
 const driver = {}
 
 function updateDriverWithKeyAndValue(driver, key, value) {
-  const newDriver.assign({}, driver, { [key]: value}):
+  return newDriver.assign({}, driver, { [key]: value}):
 }
